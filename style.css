@@ -1,0 +1,17 @@
+.node rect {
+    fill: cornflower;
+    stroke: cornflower;
+    stroke-width: 3px;
+    border-radius: 10px;
+  }
+  
+  .node text {
+    font: 12px "HelveticaNeue", sans-serif;
+  }
+  
+  .link {
+    fill: none;
+    stroke: #e0e0e0;
+    stroke-width: 3px;
+    stroke-dasharray:5;
+  }
